@@ -3,17 +3,12 @@ new Vue({
     el:"#app",
     data:{
 
-        greeting:"hello",
+        stuff:"hello",
 
     },
     methods:{
 
 
     }
-
-
-
-
-
 
 });
